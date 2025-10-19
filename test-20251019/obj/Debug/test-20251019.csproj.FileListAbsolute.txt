@@ -1,0 +1,11 @@
+D:\3_Study_Everything_43GB\1_Devoloper_Newbie_3GB\2_Languages_Base\2_Visual_Studio_Pink\0_ALL_Project_1\Test1\test-20251019\test-20251019\bin\Debug\test-20251019.exe.config
+D:\3_Study_Everything_43GB\1_Devoloper_Newbie_3GB\2_Languages_Base\2_Visual_Studio_Pink\0_ALL_Project_1\Test1\test-20251019\test-20251019\bin\Debug\test-20251019.exe
+D:\3_Study_Everything_43GB\1_Devoloper_Newbie_3GB\2_Languages_Base\2_Visual_Studio_Pink\0_ALL_Project_1\Test1\test-20251019\test-20251019\bin\Debug\test-20251019.pdb
+D:\3_Study_Everything_43GB\1_Devoloper_Newbie_3GB\2_Languages_Base\2_Visual_Studio_Pink\0_ALL_Project_1\Test1\test-20251019\test-20251019\obj\Debug\test-20251019.csproj.AssemblyReference.cache
+D:\3_Study_Everything_43GB\1_Devoloper_Newbie_3GB\2_Languages_Base\2_Visual_Studio_Pink\0_ALL_Project_1\Test1\test-20251019\test-20251019\obj\Debug\test_20251019.Form1.resources
+D:\3_Study_Everything_43GB\1_Devoloper_Newbie_3GB\2_Languages_Base\2_Visual_Studio_Pink\0_ALL_Project_1\Test1\test-20251019\test-20251019\obj\Debug\test_20251019.Properties.Resources.resources
+D:\3_Study_Everything_43GB\1_Devoloper_Newbie_3GB\2_Languages_Base\2_Visual_Studio_Pink\0_ALL_Project_1\Test1\test-20251019\test-20251019\obj\Debug\test-20251019.csproj.GenerateResource.cache
+D:\3_Study_Everything_43GB\1_Devoloper_Newbie_3GB\2_Languages_Base\2_Visual_Studio_Pink\0_ALL_Project_1\Test1\test-20251019\test-20251019\obj\Debug\test-20251019.csproj.CoreCompileInputs.cache
+D:\3_Study_Everything_43GB\1_Devoloper_Newbie_3GB\2_Languages_Base\2_Visual_Studio_Pink\0_ALL_Project_1\Test1\test-20251019\test-20251019\obj\Debug\test-20251019.exe
+D:\3_Study_Everything_43GB\1_Devoloper_Newbie_3GB\2_Languages_Base\2_Visual_Studio_Pink\0_ALL_Project_1\Test1\test-20251019\test-20251019\obj\Debug\test-20251019.pdb
+D:\3_Study_Everything_43GB\1_Devoloper_Newbie_3GB\2_Languages_Base\2_Visual_Studio_Pink\0_ALL_Project_1\Test1\test-20251019\test-20251019\obj\Debug\test-20251019.exe.config
