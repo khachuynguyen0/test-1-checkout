@@ -1,0 +1,17 @@
+{
+  "name": "test-1-checkout",
+  "version": "1.0.0",
+  "description": "A simple shopping cart checkout system",
+  "main": "checkout.js",
+  "scripts": {
+    "test": "node checkout.test.js",
+    "example": "node example.js"
+  },
+  "keywords": [
+    "checkout",
+    "cart",
+    "shopping"
+  ],
+  "author": "",
+  "license": "MIT"
+}
